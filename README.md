@@ -1,3 +1,5 @@
+![fig](https://github.com/user-attachments/assets/84056bb5-c88d-4ebd-b179-de0860ed9f20)
+
 ## Opinion dynamics model of collaborative learning
 
 ### **Jibeom Seo**, Beom Jun Kim

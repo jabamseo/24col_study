@@ -15,7 +15,6 @@ If you keep opinions for a long time, such a memory works like an inertia in cla
 We use our model to perform numerical investigations and find that the performance of a group is enhanced when initial opinions are diverse,
 that a lower memory capacity makes consensus occur faster, and that a small group size, typically three or four, is beneficial for better group performance.
 
-
-<br/><br/>
+<br/>
 
 ※ Contact: qja1264@gmail.com OR qja1264@g.skku.edu
